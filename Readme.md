@@ -17,12 +17,13 @@ This repository provides the full PyTorch implementation of **CDMT**, a multimod
 The codebase includes all components needed for reproducibility: Full model architecture, training/evaluation pipelines, default hyperparameters, and instructions to regenerate results reported in the paper.
 
 ## Repository Structure
-`cdmt/\  
-│── cdmt_model.py\
-│── cdmt_dataset.py\ 
-│── train_cdmt.py \
-│── eval_cdmt.py\
-│── requirements.txt \`
+<!--
+cdmt/
+├── cdmt_model.py
+├── cdmt_dataset.py
+├── train_cdmt.py
+├── eval_cdmt.py
+└── requirements.txt -->
 
 ## Installation
 
